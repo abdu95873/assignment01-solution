@@ -1,4 +1,4 @@
-<!-- What are some differences between interfaces and types in TypeScript? -->
+What are some differences between interfaces and types in TypeScript?
 
 Introduction:
 
@@ -168,9 +168,11 @@ In TypeScript, both interface and type have their own use cases. If you want to 
 
 
 
+//////////////////////////////////////////////
 
 
-<!-- Explain the difference between any, unknown, and never types in TypeScript. -->
+
+Explain the difference between any, unknown, and never types in TypeScript.
 
 
 
